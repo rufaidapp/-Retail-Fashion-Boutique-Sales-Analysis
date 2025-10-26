@@ -29,7 +29,7 @@ Below are screenshots of the key visualizations and the final dashboard from the
  SALES by CATEGORY and TOP SELLING COLOR FOR EACH CATEGORY <img width="1366" height="482" alt="Screenshot (438)" src="https://github.com/user-attachments/assets/610fcd4c-c460-41d1-88c7-cee64939103d" />
  
  CUSTOMER RATING ON BRANDS and ORIGINAL PRICE AND MARKDOWN PRICE<img width="1366" height="485" alt="Screenshot (439)" src="https://github.com/user-attachments/assets/6acaa66a-d9c8-438e-89f8-bdb47d3cfe87" />
-[fashion_boutique_dataset.xlsx](https://github.com/user-attachments/files/23142665/fashion_boutique_dataset.xlsx)
+
 
 
 
