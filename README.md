@@ -42,7 +42,6 @@ IBM Data Analyst Certified | Aspiring Data Analyst
 
 ⭐ *If you find this helpful, please star this repository on GitHub!*
 
- CUSTOMER RATING ON BRANDS and ORIGINAL PRICE AND MARKDOWN PRICE<img width="1366" height="485" alt="Screenshot (439)" src="https://github.com/user-attachments/assets/6acaa66a-d9c8-438e-89f8-bdb47d3cfe87" />
 
 
 
